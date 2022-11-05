@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 654px;
+  min-height: 738px;
 }
 
 .u-section-1 .u-text-1 {
@@ -14,7 +14,8 @@
 }
 
 .u-section-1 .u-table-1 {
-  margin: 20px auto 60px 0;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .u-section-1 .u-table-header-1 {
@@ -27,14 +28,17 @@
   font-size: 1rem;
 }
 
+.u-section-1 .u-table-cell-33 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-34 {
+  font-weight: 700;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-right: 420px;
-  }
-
-  .u-section-1 .u-table-1 {
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
